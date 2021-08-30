@@ -22,7 +22,13 @@
     - Tuesdays at 12:00 Noon -- sort of brown bage sessions
     - Target is 45 minutes an hour is ok if the class is still awake
 
-![](./Assets/VegET-DRB-Rouze.PNG)
+### Instructors 
+- Rich Signell
+- Matt Hanson
+- Aaron Friesz
+- Cole Krehbiel 
+- Thomas Teigen
+- Tony Butzer
 
 ## Prior Art
 ### Science Focused Detailed Training
