@@ -1,6 +1,26 @@
 <u> charter</u>
 
-# ET Case Study Project Charter
+# PANGEO ONBOARDING CLASS CHARTER
+
+## MISSION
+
+## GOALS
+
+## Roles
+
+### School Headmaster
+
+- Thomas Teigen
+- Coordinates all class TEAMS meetings
+- Organizes Class Sylabus
+- Arranges and schedules Instructors
+
+
+### Class Schedule
+
+- Every other week starting October 15th
+    - Tuesdays at 12:00 Noon -- sort of brown bage sessions
+    - Target is 45 minutes an hour is ok if the class is still awake
 
 ![](./Assets/VegET-DRB-Rouze.PNG)
 

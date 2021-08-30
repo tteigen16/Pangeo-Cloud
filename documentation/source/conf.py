@@ -21,9 +21,9 @@ source_parsers = {'.md': CommonMarkParser}
 
 # -- Project information -----------------------------------------------------
 
-project = 'AWS PANGEO Jupyter Onboarding'
-copyright = '2020, Tony Butzer'
-author = 'Tony Butzer'
+project = 'AWS PANGEO Jupyter Onboarding FALL Semester'
+copyright = '2021, Thomas Teigen'
+author = 'Thomas Teigen'
 
 # The full version, including alpha/beta/rc tags
 release = '1.0'
