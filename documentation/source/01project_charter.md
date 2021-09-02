@@ -3,7 +3,8 @@
 # PANGEO ONBOARDING CLASS CHARTER
 
 ## MISSION
-
+- To create a comprehensive and adaptive cloud education program that is accessible to all users regardless of background or field of study.
+..
 ## GOALS
 
 ## Roles
