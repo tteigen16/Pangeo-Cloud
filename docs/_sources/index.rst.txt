@@ -11,6 +11,7 @@ Welcome to AWS -- PANGEO Onboarding Training
    :caption: Contents:
 
    01project_charter.md
+   00Linuxvi.md
 .. 33data_discovery.md
 .. 35data_wrangle.md
 .. 40Code.md
